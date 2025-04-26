@@ -5954,6 +5954,7 @@ section.lazy-placeholder:after {
   display: inline-block;
   vertical-align: middle;
   color: #ffffff;
+  text-align: left;
 }
 .cid-qYd7fNzuiK .logo-footer {
   line-height: normal;
